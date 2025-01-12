@@ -126,7 +126,7 @@ Common issues and solutions:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Deatiled Line-by-Line Explanation 
-Visit our linked : 
+Visit our LinkedIn : https://www.linkedin.com/posts/modernest-org_comprehensive-guide-to-diffusion-models-activity-7284266434946330624-r8bi?utm_source=share&utm_medium=member_desktop
 
 
 ## Citation
