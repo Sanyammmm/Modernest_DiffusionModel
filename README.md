@@ -36,8 +36,8 @@ pip install torch torchvision tqdm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/basic-diffusion-model.git
-cd basic-diffusion-model
+git clone https://github.com/Sanyammmm/Modernest_DiffusionModel.git
+cd Modernest_DiffusionModel
 ```
 
 2. Create a virtual environment (optional but recommended):
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 To train the model and generate samples:
 
 ```bash
-python basic-diffusion-model.py
+python Modernest_DiffusionModel.py
 ```
 
 The script will:
@@ -90,9 +90,9 @@ etc.
 ## Directory Structure
 
 ```
-basic-diffusion-model/
+Modernest_DiffusionModel/
 │
-├── basic-diffusion-model.py    # Main implementation file
+├── Modernest_DiffusionModel.py    # Main implementation file
 ├── requirements.txt            # Package dependencies
 ├── README.md                   # This file
 └── data/                      # CIFAR-10 dataset (downloaded automatically)
@@ -130,11 +130,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this implementation in your research, please cite:
 
 ```
-@misc{basic-diffusion-model,
-  author = {Your Name},
-  title = {Basic Diffusion Model Implementation},
-  year = {2024},
+@misc{Modernest_DiffusionModel,
+  author = {Modernest},
+  title = {Modernest_DiffusionModel Implementation},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/basic-diffusion-model}
+  url = https://github.com/Sanyammmm/Modernest_DiffusionModel
 }
 ```
