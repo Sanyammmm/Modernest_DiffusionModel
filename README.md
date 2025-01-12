@@ -125,6 +125,10 @@ Common issues and solutions:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Deatiled Line-by-Line Explanation 
+Visit our linked : 
+
+
 ## Citation
 
 If you use this implementation in your research, please cite:
@@ -138,3 +142,4 @@ If you use this implementation in your research, please cite:
   url = https://github.com/Sanyammmm/Modernest_DiffusionModel
 }
 ```
+
